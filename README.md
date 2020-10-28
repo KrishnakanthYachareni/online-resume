@@ -1,4 +1,4 @@
-# react-profile
+## Online Resume
+Hosted At: https://krishnakanthyachareni.github.io/online-resume/
 
-Just an online version of my resume I made with React.
-Definitely didn't need to use react, but hey, at least I learned something.
+This is Just an just an online version of my resume.
